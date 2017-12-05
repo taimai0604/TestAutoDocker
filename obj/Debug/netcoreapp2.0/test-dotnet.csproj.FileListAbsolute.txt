@@ -1,0 +1,10 @@
+/home/taimai/Desktop/Demo/test-dotnet/bin/Debug/netcoreapp2.0/test-dotnet.deps.json
+/home/taimai/Desktop/Demo/test-dotnet/bin/Debug/netcoreapp2.0/test-dotnet.runtimeconfig.json
+/home/taimai/Desktop/Demo/test-dotnet/bin/Debug/netcoreapp2.0/test-dotnet.runtimeconfig.dev.json
+/home/taimai/Desktop/Demo/test-dotnet/bin/Debug/netcoreapp2.0/test-dotnet.dll
+/home/taimai/Desktop/Demo/test-dotnet/bin/Debug/netcoreapp2.0/test-dotnet.pdb
+/home/taimai/Desktop/Demo/test-dotnet/obj/Debug/netcoreapp2.0/test-dotnet.csproj.CoreCompileInputs.cache
+/home/taimai/Desktop/Demo/test-dotnet/obj/Debug/netcoreapp2.0/test-dotnet.AssemblyInfoInputs.cache
+/home/taimai/Desktop/Demo/test-dotnet/obj/Debug/netcoreapp2.0/test-dotnet.AssemblyInfo.cs
+/home/taimai/Desktop/Demo/test-dotnet/obj/Debug/netcoreapp2.0/test-dotnet.dll
+/home/taimai/Desktop/Demo/test-dotnet/obj/Debug/netcoreapp2.0/test-dotnet.pdb
